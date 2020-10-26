@@ -34,7 +34,7 @@ object VastaamoApp extends App with ExecutionContext  {
   val endTime = LocalDateTime.of(2020, 10, 25, 20, 0, 0, 0).atZone(ZoneId.of("Europe/Helsinki"))
 
   // Approximately 200 € in bits during startTime and endTime.
-  val valueRange =  (17000 to 19000)
+  val valueRange =  (1700000 to 1900000)
 
   // Write suspected transactions to csv file.
   val csvWriter = CSVWriter.open(new File("./possible-transactions.csv"))
