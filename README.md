@@ -1,3 +1,3 @@
 # vastaamo-bitcoin
 
-Yritys seurata vastaamo kiristäjän bitcoineja. Ei johtanut mihinkään. :(
+Yritys seurata vastaamo kiristäjän bitcoineja (ja harjoitella scalaa). Ei johtanut mihinkään.
